@@ -1,0 +1,6 @@
+{
+  "name": "Bulk Image Compressor & Next.js Sharp Builder",
+  "description": "High-performance bulk image compression tool with drag-and-drop interface, real-time quality control, format conversion, and complete Next.js with Sharp implementation blueprints.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
